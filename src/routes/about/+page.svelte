@@ -1,0 +1,1 @@
+<h1 class="text-center text-3xl my-6">About page</h1>
